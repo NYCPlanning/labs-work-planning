@@ -1,2 +1,2 @@
 # labs-meta-tasks
-To-do tasks for labs maintenance
+To-do tasks for Labs' work planning
